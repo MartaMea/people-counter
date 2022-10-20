@@ -1,5 +1,4 @@
 people-counter
 ===============================================
-
-
-Component Authors, provide some documentation for your users here!
+Build My First Now Experience UI Framework Custom Component
+People counter custom component
