@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "x-919852-people-counter": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "People Counter",
+				"icon": "user-group-fill",
+				"description": "Component to count people in a space. Developed by Marta",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_919852_people_0"
+}
